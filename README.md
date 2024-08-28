@@ -30,6 +30,7 @@ Under Tools, make sure `USB Type: "MIDI" or "Serial+MIDI"`, `Optimize Code: Fast
 
 * LED Strip
 	* PIN = 0
+	* Power = 5V, Gnd
 
 * Row PIN
 	* PIN = 2, 3, 4, 5, 6, 7, 8, 9
