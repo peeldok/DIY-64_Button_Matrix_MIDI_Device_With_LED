@@ -12,7 +12,7 @@ This Arduino project allows you to control a 64 button matrix and LED strips fro
     * ESP-32 S3
 * [Arduino Software](https://www.arduino.cc/en/Main/Software)
     * Developed with **version 1.8.5**, but older versions will likely work.
-    * Also requires [Teensyduino](https://www.pjrc.com/teensy/teensyduino.html), and the [LPD8806 Arduino library](https://github.com/adafruit/LPD8806) if you're using the LPD8806.
+    * Also requires [Teensyduino](https://www.pjrc.com/teensy/teensyduino.html), and the [FastLED Arduino library](https://github.com/FastLED/FastLED), and the [Bounce2 Arduino library](https://github.com/thomasfredericks/Bounce2)
 * OS
     * **Windows, Linux and macOS** are officially supported.
 * DAW Software
@@ -37,3 +37,6 @@ Under Tools, make sure `USB Type: "MIDI" or "Serial+MIDI"`, `Optimize Code: Fast
 
 * Col PIN
 	* PIN = 15, 16, 17, 18, 19, 20, 21, 22
+
+## Matrix
+* Test
