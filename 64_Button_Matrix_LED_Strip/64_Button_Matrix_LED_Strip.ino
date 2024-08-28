@@ -80,7 +80,7 @@ const int BASE_NOTE = 36;  // Set BASE MIDI note number
 
 void loop() {
   for (int row = 0; row < numRows; row++) {
-    // 현재 행을 LOW로 설정
+    // Set current row to LOW
     for (int i = 0; i < numRows; i++) {
       digitalWrite(rowPins[i], i == row ? LOW : HIGH);
     }
