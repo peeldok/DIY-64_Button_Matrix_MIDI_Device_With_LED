@@ -40,3 +40,6 @@ Under Tools, make sure `USB Type: "MIDI" or "Serial+MIDI"`, `Optimize Code: Fast
 
 ## Matrix
 * [Matrix PIN MAP](https://github.com/peeldok/DIY-64_Button_Matrix_MIDI_Device_With_LED/blob/main/64_Button_Matrix_LED_Strip/Matrix%20PIN%20MAP.jpg?raw=true)
+
+## LED Strip
+* [LED Strip PIN MAP](https://github.com/peeldok/DIY-64_Button_Matrix_MIDI_Device_With_LED/blob/main/64_Button_Matrix_LED_Strip/LED%20STRIP.jpg?raw=true)
