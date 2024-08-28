@@ -29,10 +29,10 @@ Under Tools, make sure `USB Type: "MIDI" or "Serial+MIDI"`, `Optimize Code: Fast
 ## PINMAP
 
 * LED Strip
-	*PIN = 0
+	* PIN = 0
 
 * Row PIN
-	*PIN = 2, 3, 4, 5, 6, 7, 8, 9
+	* PIN = 2, 3, 4, 5, 6, 7, 8, 9
 
 * Col PIN
-	*PIN = 15, 16, 17, 18, 19, 20, 21, 22
+	* PIN = 15, 16, 17, 18, 19, 20, 21, 22
