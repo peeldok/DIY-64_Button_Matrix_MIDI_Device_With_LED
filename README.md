@@ -26,7 +26,7 @@ Modify the Arduino script according to your LED strip configuration (`_nLED` = N
 
 Under Tools, make sure `USB Type: "MIDI" or "Serial+MIDI"`, `Optimize Code: Fastest` and your board are selected, then compile and upload to your board. You can also change your MIDI device name by editing `name.c`.
 
-## PINMAP
+## PIN MAP
 
 * LED Strip
 	* PIN = 0
