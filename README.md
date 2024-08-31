@@ -5,7 +5,7 @@ This Arduino project allows you to control a 64 button matrix and LED strips fro
 ## System Requirements
 
 * LED Strip
-	* The **WS8218B** strips are implemented in separate Arduino projects. 
+	* The **WS2812B** strips are implemented in separate Arduino projects. 
 * USB Development Board
     * A **32-bit PJRC Teensy** is highly recommended. A [Teensy-LC](https://www.pjrc.com/store/teensylc.html) was used while developing this project and is officially supported alongside other Teensy 3 models.
     * Teensy 2 (8-bit) and certain Arduino boards might work, but have not been tested and are not officially supported.
