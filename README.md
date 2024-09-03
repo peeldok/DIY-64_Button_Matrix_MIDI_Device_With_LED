@@ -9,7 +9,6 @@ This Arduino project allows you to control a 64 button matrix and LED strips fro
 * USB Development Board
     * A **32-bit PJRC Teensy** is highly recommended. A [Teensy-LC](https://www.pjrc.com/store/teensylc.html) was used while developing this project and is officially supported alongside other Teensy 3 models.
     * Teensy 2 (8-bit) and certain Arduino boards might work, but have not been tested and are not officially supported.
-    * ESP-32 S3
 * [Arduino Software](https://www.arduino.cc/en/Main/Software)
     * Developed with **version 1.8.5**, but older versions will likely work.
     * Also requires [Teensyduino](https://www.pjrc.com/teensy/teensyduino.html), and the [FastLED Arduino library](https://github.com/FastLED/FastLED), and the [Bounce2 Arduino library](https://github.com/thomasfredericks/Bounce2)
