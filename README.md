@@ -38,6 +38,7 @@ Under Tools, make sure `USB Type: "MIDI" or "Serial+MIDI"`, `Optimize Code: Fast
 	* PIN = 15, 16, 17, 18, 19, 20, 21, 22
 
 ## Matrix PIN MAP
+* All Col Pin Need 1N4148 Diode
 * [Matrix PIN MAP](https://github.com/peeldok/DIY-64_Button_Matrix_MIDI_Device_With_LED/blob/main/64_Button_Matrix_LED_Strip/Matrix%20PIN%20MAP.jpg?raw=true)
 
 ## LED Strip PIN MAP
