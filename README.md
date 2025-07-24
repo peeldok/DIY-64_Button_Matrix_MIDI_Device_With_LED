@@ -42,4 +42,4 @@ Under Tools, make sure `USB Type: "MIDI" or "Serial+MIDI"`, `Optimize Code: Fast
 * [Matrix PIN MAP](https://github.com/peeldok/DIY-64_Button_Matrix_MIDI_Device_With_LED/blob/main/64_Button_Matrix_LED_Strip/Matrix%20PIN%20MAP.jpg?raw=true)
 
 ## LED Strip PIN MAP
-* [LED Strip PIN MAP](https://github.com/peeldok/DIY-64_Button_Matrix_MIDI_Device_With_LED/blob/main/64_Button_Matrix_LED_Strip/LED%20STRIP.jpg?raw=true)
+* [LED Strip PIN MAP](https://github.com/peeldok/ESP32-S3-UnderLight/blob/main/UnderLight-For-ESP32S3/LED%20PInMap.png?raw=true)
